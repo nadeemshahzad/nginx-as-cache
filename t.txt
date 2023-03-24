@@ -1,1 +1,2 @@
-~~ this is text ~~
+< s> this is text 
+< /s>
